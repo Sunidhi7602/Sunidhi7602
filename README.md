@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Sunidhi 👋
 
-<!--
-**Sunidhi7602/Sunidhi7602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 MCA student at PES University, Bengaluru (graduating 2026)
+- 🌱 Currently learning **cybersecurity** & building full-stack applications
+- 💻 Working with **React · Java · Node.js · PostgreSQL · Flask · Angular**
+- 🔐 Exploring **AppSec** and ethical hacking
+- 💞️ Open to collaborating on security research, web apps, or interesting side projects
+- 📫 Reach me at **your-email@example.com**
+- ⚡ Fun fact: I blend code with spirituality ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
