@@ -1,6 +1,6 @@
 # Hi there, I'm Sunidhi 👋
 
-- 🎓 MCA student at PES University, Bengaluru (graduating 2026)
+- 🎓 MCA student at PES University, Bengaluru (graduating June 2026)
 - 🌱 Currently learning **cybersecurity** & building full-stack applications
 - 💻 Working with **React · Java · Node.js · PostgreSQL · Flask · Android Studio · Flutter · Angular**
 - 🔐 Exploring **AppSec** and ethical hacking
