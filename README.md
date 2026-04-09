@@ -2,9 +2,6 @@
 
 - 🎓 MCA student at PES University, Bengaluru (graduating June 2026)
 - 🌱 Currently learning **cybersecurity** & building full-stack applications
-- 💻 Working with **React · Java · Node.js · PostgreSQL · Flask · Android Studio · Flutter · Angular**
-- 🔐 Exploring **AppSec** and ethical hacking
-- 💞️ Open to collaborating on security research, web apps, or interesting side projects
 - 📫 Reach me at **nidhijagadish2002@gmail.com**
 
 ---
