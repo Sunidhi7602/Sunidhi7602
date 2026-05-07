@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sunidhi+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Enthusiast;Multi-Agent+AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sunidhi+J+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Enthusiast;Multi-Agent+AI+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,13 +16,13 @@
 ## 🧬 About Me
 
 ```yaml
-name       : Sunidhi
-education  : MCA @ PES University, Bengaluru (Graduating July 2026)
+name       : Sunidhi J
+education  : MCA @ PES University, Bengaluru
 internship : Full Stack Developer @ Yokogawa Technology Solutions
 focus      : Cybersecurity · Agentic AI · Full Stack Development
-interests  : Mindful Living · Spirituality · Open Source
+interests  : Mindful Living · Spirituality · Art & Craft
 currently  : Building an Agentic AI Security Scanner (capstone project)
-contact    : nidhijagadish2002@gmail.com
+contact    : nidhijagadish2002@gmail.com,
 ```
 
 ---
@@ -164,35 +164,6 @@ contact    : nidhijagadish2002@gmail.com
 </table>
 
 > Replace all `#` links with your actual repo URLs.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikmis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikmis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikmis&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikmis&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-```text
-🔐  Agentic AI Security     ████████████░░░   OWASP · LLM Threat Modeling
-☁️  Cloud Deployments       ████████░░░░░░░   MongoDB Atlas · Azure
-🤖  Multi-Agent AI          ██████████░░░░░   Gemini API · FastAPI · Celery
-📡  Network Security        ███████░░░░░░░░   SDN · VLANs · OSPF · MPLS
-```
 
 ---
 
