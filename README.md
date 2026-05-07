@@ -131,20 +131,20 @@ contact    : nidhijagadish2002@gmail.com,
       <p><code>Python</code> <code>Flask</code> <code>React</code> <code>AI Algorithms</code></p>
       <a href="#">View Repo →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Apartment Management App</h3>
-      <p>Full-stack tenant management system with rent tracking, Aadhaar-based records, payment history, and analytics dashboards.</p>
-      <p><code>React</code> <code>MySQL</code> <code>SCSS</code></p>
-      <a href="#">View Repo →</a>
-    </td>
+  <td width="50%" valign="top">
+  <h3>🏠 Apartment Management App</h3>
+  <p>Full-stack tenant management system with rent tracking, Aadhaar-based records, payment history, and analytics dashboards.</p>
+  <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>SCSS</code></p>  <code>REST API</code>
+  <a href="#">View Repo →</a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎟️ Event Booking System</h3>
-      <p>End-to-end event management and ticket booking platform with authentication, scheduling, and booking workflows.</p>
-      <p><code>Angular</code> <code>MySQL</code></p>
-      <a href="#">View Repo →</a>
-    </td>
+  <h3>🎟️ Event Booking System</h3>
+  <p>End-to-end event management and ticket booking platform with authentication, scheduling, and booking workflows.</p>
+  <p><code>Angular</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
+  <a href="#">View Repo →</a>
+</td>
     <td width="50%" valign="top">
       <h3>📱 Mental Health Support App</h3>
       <p>Android application focused on emotional wellness, mood support, and community-based mental health assistance.</p>
