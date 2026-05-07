@@ -7,22 +7,34 @@
 <p align="center">
   <a href="mailto:nidhijagadish2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sunidhi-jagadish-chandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sunidhi7602/Sunidhi7602"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=vikmis&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/Sunidhi7602"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Sunidhi7602&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-## 🧬 About Me
+## 👩‍💻 About Me
+
+Hey! I'm **Sunidhi J** — a Full Stack Developer and designer passionate about creating websites and apps that are engaging, accessible, and meaningful.
+
+I enjoy learning, experimenting, and growing my knowledge — whether that's through building projects, exploring new technologies, or diving into tutorials. My primary focus is the **cybersecurity domain**, where I challenge myself to grow a little every day.
+
+Currently pursuing my **MCA at PES University, Bengaluru**, and interning as a **Full Stack Developer at Yokogawa Technology Solutions**. I'm also building an **Agentic AI Security Scanner** as my capstone project.
+
+Feel free to check out my **[LinkedIn](https://www.linkedin.com/in/sunidhi-jagadish-chandra/)** to connect and explore my portfolio! 🚀
+
+---
+
+## 🧬 Quick Info
 
 ```yaml
 name       : Sunidhi J
-education  : MCA @ PES University, Bengaluru
+education  : MCA @ PES University, Bengaluru (Graduating July 2026)
 internship : Full Stack Developer @ Yokogawa Technology Solutions
 focus      : Cybersecurity · Agentic AI · Full Stack Development
 interests  : Mindful Living · Spirituality · Art & Craft
 currently  : Building an Agentic AI Security Scanner (capstone project)
-contact    : nidhijagadish2002@gmail.com,
+contact    : nidhijagadish2002@gmail.com
 ```
 
 ---
@@ -65,8 +77,8 @@ contact    : nidhijagadish2002@gmail.com,
 ![MongoDB Atlas](https://img.shields.io/badge/Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
   </td>
-</tr>
-<tr>
+  </tr>
+  <tr>
   <td valign="top" width="33%">
 
 **🔐 Cybersecurity**
@@ -113,7 +125,7 @@ contact    : nidhijagadish2002@gmail.com,
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 Agentic AI Security Scanner</h3>
-      <p>Multi-agent autonomous security platform that scans web apps, maps OWASP vulnerabilities, generates AI-powered remediation suggestions, and produces consolidated reports.</p>
+      <p>Multi-agent autonomous security platform that scans web apps, maps OWASP vulnerabilities, generates AI-powered remediation suggestions, and produces consolidated security reports.</p>
       <p><code>FastAPI</code> <code>OWASP ZAP</code> <code>Gemini AI</code> <code>MongoDB</code> <code>Celery</code> <code>React</code></p>
       <a href="#">View Repo →</a>
     </td>
@@ -131,20 +143,20 @@ contact    : nidhijagadish2002@gmail.com,
       <p><code>Python</code> <code>Flask</code> <code>React</code> <code>AI Algorithms</code></p>
       <a href="#">View Repo →</a>
     </td>
-  <td width="50%" valign="top">
-  <h3>🏠 Apartment Management App</h3>
-  <p>Full-stack tenant management system with rent tracking, Aadhaar-based records, payment history, and analytics dashboards.</p>
-  <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>SCSS</code></p>  <code>REST API</code>
-  <a href="#">View Repo →</a>
-</td>
+    <td width="50%" valign="top">
+      <h3>🏠 Apartment Management App</h3>
+      <p>Full-stack tenant management system with rent tracking, Aadhaar-based records, payment history, and analytics dashboards.</p>
+      <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>SCSS</code> <code>REST API</code></p>
+      <a href="#">View Repo →</a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <h3>🎟️ Event Booking System</h3>
-  <p>End-to-end event management and ticket booking platform with authentication, scheduling, and booking workflows.</p>
-  <p><code>Angular</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
-  <a href="#">View Repo →</a>
-</td>
+      <h3>🎟️ Event Booking System</h3>
+      <p>End-to-end event management and ticket booking platform with authentication, scheduling, and booking workflows.</p>
+      <p><code>Angular</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
+      <a href="#">View Repo →</a>
+    </td>
     <td width="50%" valign="top">
       <h3>📱 Mental Health Support App</h3>
       <p>Android application focused on emotional wellness, mood support, and community-based mental health assistance.</p>
@@ -159,18 +171,45 @@ contact    : nidhijagadish2002@gmail.com,
       <p><code>Android Studio</code> <code>Firebase</code> <code>Java/Kotlin</code> <code>Figma</code></p>
       <a href="#">View Repo →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ VitalCheck</h3>
-      <p>Nutrition-focused web app that analyzes user health data and provides personalized diet recommendations and meal guidance.Interactive BMI calculator that computes body mass index based on user inputs and classifies health status with visual feedback.Web application to log and monitor daily fitness activities, track workout progress, and visualize health metrics over time.</p>
-     <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code></p>
+      <p>All-in-one health and wellness website featuring a BMI calculator, personalized diet suggestions, and a daily fitness activity tracker with progress visualization.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code></p>
       <a href="#">View Repo →</a>
     </td>
   </tr>
 </table>
 
 > Replace all `#` links with your actual repo URLs.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi7602&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhi7602&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+```text
+🔐  Agentic AI Security     ████████████░░░   OWASP · LLM Threat Modeling
+☁️  Cloud Deployments       ████████░░░░░░░   MongoDB Atlas · Azure
+🤖  Multi-Agent AI          ██████████░░░░░   Gemini API · FastAPI · Celery
+📡  Network Security        ███████░░░░░░░░   SDN · VLANs · OSPF · MPLS
+```
 
 ---
 
