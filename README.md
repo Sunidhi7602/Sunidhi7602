@@ -42,8 +42,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3B82F6)
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=CC6699)
 ![SCSS](https://img.shields.io/badge/SCSS-0D1117?style=flat-square&logo=sass&logoColor=CC6699)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=sass&logoColor=CC6699)
 
 **— Backend —**
 
@@ -113,7 +113,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Sudoku Solver AI Web App
+### 🧠 Sudoku AI Web App
 > AI-powered Sudoku solver with interactive gameplay, difficulty levels, and algorithmic solving visualization.
 
 `Python` `Flask` `React` `AI Algorithms`
@@ -147,8 +147,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Hivity
-> Social-Community Connect Android app for local interaction, announcements, and neighborhood engagement.
+### 🌐 Community Connect App
+> Social-community Android app for local interaction, announcements, and neighborhood engagement.
 
 `Android Studio` `Firebase` `Java/Kotlin` `Figma`
 
@@ -167,6 +167,22 @@
 </td>
 </tr>
 </table>
+
+---
+
+## ⬡ GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&theme=merko&bg_color=0D1117&border_color=00C9A7&title_color=00C9A7&icon_color=00C9A7&text_color=8892b0&hide_border=false&rank_icon=github"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi7602&layout=compact&theme=merko&bg_color=0D1117&border_color=00C9A7&title_color=00C9A7&text_color=8892b0&hide_border=false"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&theme=dark&background=0D1117&border=00C9A7&ring=00C9A7&fire=FF6B35&currStreakLabel=00C9A7&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
 
 ---
 
