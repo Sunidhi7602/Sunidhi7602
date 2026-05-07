@@ -242,22 +242,6 @@
 
 ---
 
-## 🌿 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&bg_color=1E2B1E&border_color=5C7A47&title_color=A8BC8A&icon_color=D4A96A&text_color=D4C9A8&hide_border=false&count_private=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi7602&layout=compact&bg_color=1E2B1E&border_color=5C7A47&title_color=A8BC8A&text_color=D4C9A8&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&background=1E2B1E&border=5C7A47&ring=8AAF6B&fire=C47B4A&currStreakLabel=A8BC8A&sideLabels=A3B899&dates=9DAA8F&currStreakNum=A8BC8A" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🌿 Internship Experience
 
 **Full Stack Developer @ Yokogawa Tech Solutions** _(Current)_
