@@ -159,7 +159,6 @@ contact    : nidhijagadish2002@gmail.com,
       <p><code>Android Studio</code> <code>Firebase</code> <code>Java/Kotlin</code> <code>Figma</code></p>
       <a href="#">View Repo →</a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -168,7 +167,6 @@ contact    : nidhijagadish2002@gmail.com,
      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code></p>
       <a href="#">View Repo →</a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
