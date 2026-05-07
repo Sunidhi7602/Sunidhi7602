@@ -1,86 +1,140 @@
-# 🌲 Sunidhi J — GitHub Profile README
+# 🌿 Hi there, I'm Sunidhi J
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D5A27&height=120&section=header"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sunidhi+J+%F0%9F%8C%B2;Full+Stack+Developer;Cybersecurity+Enthusiast;Multi-Agent+AI+Builder;Forest+Boho+Vibes+%E2%9C%A8" alt="Typing SVG" />
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0,1E2B1E,60,3B5430,100,5C7A47&height=180&section=header&text=Sunidhi%20J&fontColor=D4C9A8&fontSize=56&fontAlignY=65&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast%20%E2%80%A2%20AI%20Builder&descAlignY=84&descSize=14&descFontColor=A3B899"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sunidhi7602/Sunidhi7602/output/snake.svg" alt="Snake animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=20&pause=1200&color=A8BC8A&center=true&vCenter=true&width=640&lines=Securing+the+web%2C+one+agent+at+a+time+%F0%9F%8C%BF;Building+multi-agent+AI+security+pipelines+%F0%9F%94%90;Full+Stack+%7C+Cybersecurity+%7C+FastAPI+%7C+React;MCA+%40+PES+University+%E2%80%94+Graduating+July+2026" alt="Typing SVG"/>
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-nidhijagadish2002%40gmail.com-2C3E2D?style=flat-square&logo=gmail&logoColor=C47B4A&labelColor=2C3E2D)](mailto:nidhijagadish2002@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunidhi--jagadish--chandra-2C3E2D?style=flat-square&logo=linkedin&logoColor=A8BC8A&labelColor=2C3E2D)](https://www.linkedin.com/in/sunidhi-jagadish-chandra/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sunidhi7602-2C3E2D?style=flat-square&logo=github&logoColor=D4C9A8&labelColor=2C3E2D)](https://github.com/Sunidhi7602)
+
+![Views](https://komarev.com/ghpvc/?username=Sunidhi7602&style=flat-square&color=6B8F5E&label=profile+views&labelColor=2C3E2D)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<a href="mailto:nidhijagadish2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2D5A27" />
-</a>
-
-<a href="https://www.linkedin.com/in/sunidhi-jagadish-chandra/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8B7355" />
-</a>
-
-<a href="https://github.com/Sunidhi7602">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=2D5A27" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Sunidhi7602&style=for-the-badge&color=8B7355&label=FOREST+VISITORS" />
-
-</div>
-
----
-
-# 🌿 About Me
-
-```yaml
-🌲 Spirit Guide   : Sunidhi J
-🎓 Current Quest  : MCA @ PES University (Graduating July 2026)
-💼 Day Job        : Full Stack Developer @ Yokogawa Technology Solutions
-🔮 Focus          : Cybersecurity · Agentic AI · Full Stack Design
-🌙 Soul Interests : Mindful Living · Earth Tones · Art & Craft
-⚡ Current Build  : Agentic AI Security Scanner (Capstone Project)
-📫 Moss Message   : nidhijagadish2002@gmail.com
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│  🌿  whoami                                                      │
+│                                                                  │
+│  name        ✦  Sunidhi J                                        │
+│  degree      ✦  MCA @ PES University, Bengaluru (July 2026)     │
+│  internship  ✦  Full Stack Developer @ Yokogawa Tech Solutions  │
+│  domain      ✦  Cybersecurity · Agentic AI · Full Stack Dev     │
+│  building    ✦  Agentic AI Security Scanner (capstone, 2026)    │
+│  interests   ✦  Mindful Living · Spirituality · Art & Craft     │
+│  contact     ✦  nidhijagadish2002@gmail.com                     │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🍂 Tech Stack — Forest Tools
+## 🌿 Stack
 
 <div align="center">
 
-<table>
+### ✦ Frontend ✦
 
+![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
+![Angular](https://img.shields.io/badge/Angular-2C3E2D?style=flat-square&logo=angular&logoColor=C47B4A)
+![TypeScript](https://img.shields.io/badge/TypeScript-2C3E2D?style=flat-square&logo=typescript&logoColor=7BA7BC)
+![Flutter](https://img.shields.io/badge/Flutter-2C3E2D?style=flat-square&logo=flutter&logoColor=7BBCBC)
+![HTML5](https://img.shields.io/badge/HTML5-2C3E2D?style=flat-square&logo=html5&logoColor=C47B4A)
+![CSS3](https://img.shields.io/badge/CSS3-2C3E2D?style=flat-square&logo=css3&logoColor=7BA7BC)
+![SCSS](https://img.shields.io/badge/SCSS-2C3E2D?style=flat-square&logo=sass&logoColor=BC8FA8)
+
+<br/>
+
+### ✦ Backend ✦
+
+![FastAPI](https://img.shields.io/badge/FastAPI-2C3E2D?style=flat-square&logo=fastapi&logoColor=A8BC8A)
+![NodeJS](https://img.shields.io/badge/Node.js-2C3E2D?style=flat-square&logo=nodedotjs&logoColor=8AAF6B)
+![Express](https://img.shields.io/badge/Express.js-2C3E2D?style=flat-square&logo=express&logoColor=D4C9A8)
+![Flask](https://img.shields.io/badge/Flask-2C3E2D?style=flat-square&logo=flask&logoColor=D4C9A8)
+![Python](https://img.shields.io/badge/Python-2C3E2D?style=flat-square&logo=python&logoColor=D4A96A)
+![Java](https://img.shields.io/badge/Java-2C3E2D?style=flat-square&logo=openjdk&logoColor=C47B4A)
+
+<br/>
+
+### ✦ Databases & Cloud ✦
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C3E2D?style=flat-square&logo=postgresql&logoColor=7BA7BC)
+![MongoDB](https://img.shields.io/badge/MongoDB-2C3E2D?style=flat-square&logo=mongodb&logoColor=8AAF6B)
+![MySQL](https://img.shields.io/badge/MySQL-2C3E2D?style=flat-square&logo=mysql&logoColor=7BA7BC)
+![MongoAtlas](https://img.shields.io/badge/MongoDB_Atlas-2C3E2D?style=flat-square&logo=mongodb&logoColor=A8BC8A)
+![Docker](https://img.shields.io/badge/Docker-2C3E2D?style=flat-square&logo=docker&logoColor=7BBCBC)
+![Firebase](https://img.shields.io/badge/Firebase-2C3E2D?style=flat-square&logo=firebase&logoColor=D4A96A)
+![Redis](https://img.shields.io/badge/Redis-2C3E2D?style=flat-square&logo=redis&logoColor=C47B4A)
+![Celery](https://img.shields.io/badge/Celery-2C3E2D?style=flat-square&logo=celery&logoColor=8AAF6B)
+
+<br/>
+
+### ✦ Cybersecurity ✦
+
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-2C3E2D?style=flat-square&logo=owasp&logoColor=A8BC8A)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-2C3E2D?style=flat-square&logo=burpsuite&logoColor=C47B4A)
+![Wireshark](https://img.shields.io/badge/Wireshark-2C3E2D?style=flat-square&logo=wireshark&logoColor=7BA7BC)
+![Nmap](https://img.shields.io/badge/Nmap-2C3E2D?style=flat-square&logo=nmap&logoColor=D4C9A8)
+![Linux](https://img.shields.io/badge/Linux-2C3E2D?style=flat-square&logo=linux&logoColor=D4A96A)
+![Git](https://img.shields.io/badge/Git-2C3E2D?style=flat-square&logo=git&logoColor=C47B4A)
+
+<br/>
+
+### ✦ Tools & Design ✦
+
+![VSCode](https://img.shields.io/badge/VS_Code-2C3E2D?style=flat-square&logo=visualstudiocode&logoColor=7BA7BC)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-2C3E2D?style=flat-square&logo=intellijidea&logoColor=D4C9A8)
+![Figma](https://img.shields.io/badge/Figma-2C3E2D?style=flat-square&logo=figma&logoColor=C47B4A)
+![Postman](https://img.shields.io/badge/Postman-2C3E2D?style=flat-square&logo=postman&logoColor=C47B4A)
+![Swagger](https://img.shields.io/badge/Swagger-2C3E2D?style=flat-square&logo=swagger&logoColor=A8BC8A)
+![Notion](https://img.shields.io/badge/Notion-2C3E2D?style=flat-square&logo=notion&logoColor=D4C9A8)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-2C3E2D?style=flat-square&logo=androidstudio&logoColor=8AAF6B)
+![Canva](https://img.shields.io/badge/Canva-2C3E2D?style=flat-square&logo=canva&logoColor=7BBCBC)
+
+</div>
+
+---
+
+## 🌿 Projects
+
+<table>
 <tr>
 
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### 🌲 Frontend
+### 🔐 Agentic AI Security Scanner
 
-<img src="https://skillicons.dev/icons?i=react,angular,ts,flutter,html,css" />
+> Autonomous multi-agent security platform. Scans web apps with OWASP ZAP, maps vulnerabilities to CVE/OWASP Top 10, generates AI-powered patches via Gemini, and outputs consolidated security reports.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-2C3E2D?style=flat-square&logo=fastapi&logoColor=A8BC8A)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-2C3E2D?style=flat-square&logo=owasp&logoColor=A8BC8A)
+![Gemini](https://img.shields.io/badge/Gemini_AI-2C3E2D?style=flat-square&logo=google&logoColor=D4A96A)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-2C3E2D?style=flat-square&logo=mongodb&logoColor=8AAF6B)
+![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
+
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
 
 </td>
 
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### 🍄 Backend
+### 🍯 Honeypot Framework
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,java,python" />
+> Deception-based intrusion detection system that monitors, logs, and visualizes attacker behavior in real time with centralized threat dashboards.
 
-</td>
+![MongoDB](https://img.shields.io/badge/MongoDB-2C3E2D?style=flat-square&logo=mongodb&logoColor=8AAF6B)
+![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
+![NodeJS](https://img.shields.io/badge/Node.js-2C3E2D?style=flat-square&logo=nodedotjs&logoColor=8AAF6B)
+![SCSS](https://img.shields.io/badge/SCSS-2C3E2D?style=flat-square&logo=sass&logoColor=BC8FA8)
 
-<td valign="top" width="33%">
-
-### 🌱 Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
 
 </td>
 
@@ -88,31 +142,32 @@
 
 <tr>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity
+### 🏠 Apartment Management App
 
-<img src="https://img.shields.io/badge/OWASP%20ZAP-2D5A27?style=flat-square&logo=owasp&logoColor=white" />
+> Full-stack tenant management with Aadhaar-based records, rent tracking, payment history, and analytics dashboards.
 
-<img src="https://img.shields.io/badge/Burp%20Suite-8B7355?style=flat-square" />
+![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
+![NodeJS](https://img.shields.io/badge/Node.js-2C3E2D?style=flat-square&logo=nodedotjs&logoColor=8AAF6B)
+![TypeScript](https://img.shields.io/badge/TypeScript-2C3E2D?style=flat-square&logo=typescript&logoColor=7BA7BC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C3E2D?style=flat-square&logo=postgresql&logoColor=7BA7BC)
 
-<img src="https://img.shields.io/badge/Wireshark-2D5A27?style=flat-square&logo=wireshark&logoColor=white" />
-
-</td>
-
-<td valign="top">
-
-### ☁️ DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,firebase" />
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🧰 Design Tools
+### 🧠 Sudoku AI Web App
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,notion" />
+> AI-powered Sudoku solver with interactive gameplay, multiple difficulty levels, and algorithmic solving visualization.
+
+![Python](https://img.shields.io/badge/Python-2C3E2D?style=flat-square&logo=python&logoColor=D4A96A)
+![Flask](https://img.shields.io/badge/Flask-2C3E2D?style=flat-square&logo=flask&logoColor=D4C9A8)
+![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
+
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
 
 </td>
 
@@ -120,192 +175,34 @@
 
 </table>
 
-</div>
-
 ---
 
-# 🌸 Featured Projects — Blossoms in the Forest
+## 🌿 GitHub Stats
 
 <div align="center">
 
-<table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&bg_color=1E2B1E&border_color=5C7A47&title_color=A8BC8A&icon_color=D4A96A&text_color=D4C9A8&hide_border=false&rank_icon=github"/>
 
-<tr>
+&nbsp;
 
-<td width="50%" valign="top">
-
-## 🔐 Agentic AI Security Scanner
-
-<i>
-Multi-agent autonomous security platform scanning web apps, mapping OWASP vulnerabilities, and generating AI remediation suggestions.
-</i>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi7602&layout=compact&bg_color=1E2B1E&border_color=5C7A47&title_color=A8BC8A&text_color=D4C9A8&hide_border=false"/>
 
 <br/><br/>
 
-<code>FastAPI</code>
-<code>OWASP ZAP</code>
-<code>Gemini AI</code>
-<code>MongoDB</code>
-<code>Celery</code>
-<code>React</code>
-
-<br/><br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Explore-2D5A27?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🍯 Honeypot Framework
-
-<i>
-Deception-based cybersecurity framework to detect, monitor, and log intrusion attempts.
-</i>
-
-<br/><br/>
-
-<code>MERN Stack</code>
-<code>MongoDB</code>
-<code>SCSS</code>
-
-<br/><br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Explore-8B7355?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Sudoku AI Web App
-
-<i>
-AI-powered Sudoku solver and generator with interactive gameplay and algorithmic visualization.
-</i>
-
-<br/><br/>
-
-<code>Python</code>
-<code>Flask</code>
-<code>React</code>
-<code>AI Algorithms</code>
-
-<br/><br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Explore-2D5A27?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏠 Apartment Management App
-
-<i>
-Full-stack tenant system with rent tracking, payments, and analytics dashboards.
-</i>
-
-<br/><br/>
-
-<code>React</code>
-<code>Node.js</code>
-<code>PostgreSQL</code>
-<code>SCSS</code>
-
-<br/><br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Explore-8B7355?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&background=1E2B1E&border=5C7A47&ring=8AAF6B&fire=C47B4A&currStreakLabel=A8BC8A&sideLabels=A3B899&dates=9DAA8F&currStreakNum=D4C9A8&sideNums=D4C9A8"/>
 
 </div>
 
 ---
 
-<details>
+## 🌿 Certifications & Research
 
-<summary>🌿 <b>More Forest Creations</b></summary>
-
-<br/>
-
-- 🎟️ **Event Booking System** — Angular + Node.js + TypeScript + PostgreSQL  
-- 📱 **Mental Health Support App** — Android Studio + Firebase + Java/Kotlin  
-- 🌐 **Community Connect App** — Android + Firebase Social Platform  
-- ⚡ **VitalCheck** — Health & Wellness Web App with BMI and Activity Tracker  
-
-</details>
+| Icon | Credential | Status |
+|:---:|---|---:|
+| 🛡️ | **ISC2 Certified in Cybersecurity (CC)** | ![in progress](https://img.shields.io/badge/in_progress-3B5430?style=flat-square) |
+| 📘 | **NPTEL — Cybersecurity and Privacy** | ![completed](https://img.shields.io/badge/completed-2C3E2D?style=flat-square) |
+| 🔬 | **IEEE Research — Honeypot Intrusion Detection** | ![published](https://img.shields.io/badge/published-1E2B1E?style=flat-square) |
 
 ---
 
-# 📜 Certifications & Research
-
-```yaml
-🏅 ISC2 Certified in Cybersecurity (CC) — In Progress
-📚 NPTEL — Cybersecurity and Privacy
-🔬 IEEE Research — Honeypot-based Intrusion Detection
-```
-
----
-
-# 🌟 GitHub Forest Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&theme=dark&bg_color=0D1117&title_color=8B7355&icon_color=2D5A27&text_color=A3B18A&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&theme=dark&background=0D1117&stroke=8B7355&ring=2D5A27&fire=8B7355&currStreakNum=A3B18A&sideNums=A3B18A&currStreakLabel=8B7355&sideLabels=8B7355&dates=A3B18A&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhi7602&theme=github-compact&bg_color=0D1117&color=A3B18A&line=2D5A27&point=8B7355&area=true&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-# 🌙 Connect in the Forest
-
-<div align="center">
-
-<i>
-"Like a tree with deep roots and many branches — I grow in many directions at once."
-</i>
-
-<br/><br/>
-
-<a href="mailto:nidhijagadish2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-2D5A27?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sunidhi-jagadish-chandra/">
-<img src="https://img.shields.io/badge/LinkedIn-8B7355?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sunidhi7602">
-<img src="https://img.shields.io/badge/GitHub-2D5A27?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D5A27&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0,5C7A47,60,3B5430,100,1E2B1E&height=120&section=footer&reversal=true"/>
