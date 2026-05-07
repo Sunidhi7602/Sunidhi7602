@@ -43,6 +43,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=54C5F8)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![SCSS](https://img.shields.io/badge/SCSS-0D1117?style=flat-square&logo=sass&logoColor=CC6699)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=sass&logoColor=CC6699)
 
 **— Backend —**
 
