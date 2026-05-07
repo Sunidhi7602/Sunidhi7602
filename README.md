@@ -180,37 +180,6 @@ contact    : nidhijagadish2002@gmail.com
   </tr>
 </table>
 
-> Replace all `#` links with your actual repo URLs.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi7602&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhi7602&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-```text
-🔐  Agentic AI Security     ████████████░░░   OWASP · LLM Threat Modeling
-☁️  Cloud Deployments       ████████░░░░░░░   MongoDB Atlas · Azure
-🤖  Multi-Agent AI          ██████████░░░░░   Gemini API · FastAPI · Celery
-📡  Network Security        ███████░░░░░░░░   SDN · VLANs · OSPF · MPLS
-```
-
 ---
 
 ## 📜 Certifications & Research
