@@ -71,13 +71,17 @@
 
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 | Project | Description | Stack |
 |---|---|---|
-| 🔐 **[Agentic AI Security Scanner](#)** | Multi-agent pipeline that autonomously scans, analyzes, and remediates web vulnerabilities | FastAPI · OWASP ZAP · Gemini AI · MongoDB · Celery · React |
-| 🍯 **[Honeypot Framework](#)** | Deception-based network security tool to detect and log intrusion attempts | Python · Networking |
-| 🏠 **[Apartment Management App](#)** | Full-stack app with rent tracking, Aadhaar-based tenant records & payment graphs | Node.js · TypeScript · PostgreSQL · Drizzle ORM |
-| 🎟️ **[Event Booking System](#)** | End-to-end event management and ticketing platform | Node.js · Express · TypeScript · PostgreSQL |
-
+| 🔐 **[Agentic AI Security Scanner](#)** | Built a multi-agent autonomous security platform that scans web applications, analyzes OWASP vulnerabilities, generates AI-powered remediation suggestions, and creates consolidated security reports | FastAPI · OWASP ZAP · Gemini AI · MongoDB · Celery · React |
+| 🧠 **[Sudoku AI Web Application](#)** | Developed an AI-powered Sudoku solver and generator with interactive gameplay, difficulty levels, and algorithmic solving visualization | Python · Flask · React · AI Algorithms |
+| 🍯 **[Honeypot Framework](#)** | Designed a deception-based cybersecurity framework to detect, monitor, and log intrusion attempts with centralized attack tracking | MERN Stack · MongoDB · SCSS |
+| 🏠 **[Apartment Management App](#)** | Built a full-stack tenant management system with rent tracking, Aadhaar-based records, payment history, and analytics dashboards | React · MySQL · SCSS |
+| 🎟️ **[Event Booking System](#)** | Developed a complete event management and ticket booking platform with authentication, scheduling, and booking workflows | Angular · MySQL |
+| 📱 **[Mental Health Support App](#)** | Created an Android application focused on emotional wellness, mood support, and community-based mental health assistance | Android Studio · Java/Kotlin · Firebase · Figma |
+| 🌐 **[Community Connect App](#)** | Developed a social-community Android app enabling local interaction, announcements, and community engagement features | Android Studio · Firebase · Java/Kotlin · Figma |
 > Replace `#` with your actual repo links!
 
 ---
