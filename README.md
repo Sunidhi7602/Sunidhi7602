@@ -161,6 +161,15 @@ contact    : nidhijagadish2002@gmail.com,
     </td>
     <td width="50%" valign="top"></td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ VitalCheck</h3>
+      <p>Nutrition-focused web app that analyzes user health data and provides personalized diet recommendations and meal guidance.Interactive BMI calculator that computes body mass index based on user inputs and classifies health status with visual feedback.Web application to log and monitor daily fitness activities, track workout progress, and visualize health metrics over time.</p>
+     <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code></p>
+      <a href="#">View Repo →</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 > Replace all `#` links with your actual repo URLs.
