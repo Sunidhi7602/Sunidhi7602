@@ -176,15 +176,3 @@
 </table>
 
 ---
-
-## 🌿 Certifications & Research
-
-| Icon | Credential | Status |
-|:---:|---|---:|
-| 🛡️ | **Python language certification)** |(https://img.shields.io/badge/in_progress-3B5430?style=flat-square) |
-| 🛡️ | **ISC2 Certified in Cybersecurity (CC)** |(https://img.shields.io/badge/in_progress-3B5430?style=flat-square) |
-| 🔬 | **IEEE Research — Honeypot Intrusion Detection** |(https://img.shields.io/badge/published-1E2B1E?style=flat-square) |
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0,5C7A47,60,3B5430,100,1E2B1E&height=120&section=footer&reversal=true"/>
