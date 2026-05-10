@@ -108,23 +108,7 @@
 <tr>
 
 <td width="50%" valign="top">
-
-### 🔐 Agentic AI Security Scanner
-
-> Autonomous multi-agent security platform. Scans web apps with OWASP ZAP, maps vulnerabilities to CVE/OWASP Top 10, generates AI-powered patches via Gemini, and outputs consolidated security reports.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-2C3E2D?style=flat-square&logo=fastapi&logoColor=A8BC8A)
-![ZAP](https://img.shields.io/badge/OWASP_ZAP-2C3E2D?style=flat-square&logo=owasp&logoColor=A8BC8A)
-![Gemini](https://img.shields.io/badge/Gemini_AI-2C3E2D?style=flat-square&logo=google&logoColor=D4A96A)
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-2C3E2D?style=flat-square&logo=mongodb&logoColor=8AAF6B)
-![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
-
-[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
-
-</td>
-
-<td width="50%" valign="top">
-
+  
 ### 🍯 Honeypot Framework
 
 > Deception-based intrusion detection system that monitors, logs, and visualizes attacker behavior in real time with centralized threat dashboards.
@@ -135,6 +119,21 @@
 ![SCSS](https://img.shields.io/badge/SCSS-2C3E2D?style=flat-square&logo=sass&logoColor=BC8FA8)
 
 [![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](https://github.com/Sunidhi7602/Client-honeypot-with-web-threat-detection)
+
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Sudoku AI Web App
+
+> AI-powered Sudoku solver with interactive gameplay, multiple difficulty levels, and algorithmic solving visualization.
+
+![Python](https://img.shields.io/badge/Python-2C3E2D?style=flat-square&logo=python&logoColor=D4A96A)
+![Flask](https://img.shields.io/badge/Flask-2C3E2D?style=flat-square&logo=flask&logoColor=D4C9A8)
+![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
+
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](https://github.com/Sunidhi7602/SUDOKU.AI)
 
 </td>
 
@@ -159,15 +158,18 @@
 
 <td width="50%" valign="top">
 
-### 🧠 Sudoku AI Web App
+### 🔐 Agentic AI Security Scanner
 
-> AI-powered Sudoku solver with interactive gameplay, multiple difficulty levels, and algorithmic solving visualization.
+> Autonomous multi-agent security platform. Scans web apps with OWASP ZAP, maps vulnerabilities to CVE/OWASP Top 10, generates AI-powered patches via Gemini, and outputs consolidated security reports.
 
-![Python](https://img.shields.io/badge/Python-2C3E2D?style=flat-square&logo=python&logoColor=D4A96A)
-![Flask](https://img.shields.io/badge/Flask-2C3E2D?style=flat-square&logo=flask&logoColor=D4C9A8)
+![FastAPI](https://img.shields.io/badge/FastAPI-2C3E2D?style=flat-square&logo=fastapi&logoColor=A8BC8A)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-2C3E2D?style=flat-square&logo=owasp&logoColor=A8BC8A)
+![Gemini](https://img.shields.io/badge/Gemini_AI-2C3E2D?style=flat-square&logo=google&logoColor=D4A96A)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-2C3E2D?style=flat-square&logo=mongodb&logoColor=8AAF6B)
 ![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
 
-[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](https://github.com/Sunidhi7602/SUDOKU.AI)
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
+
 
 </td>
 
