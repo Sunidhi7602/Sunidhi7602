@@ -167,7 +167,7 @@
 ![Flask](https://img.shields.io/badge/Flask-2C3E2D?style=flat-square&logo=flask&logoColor=D4C9A8)
 ![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
 
-[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](https://github.com/Sunidhi7602/SUDOKU.AI)
 
 </td>
 
@@ -177,31 +177,13 @@
 
 ---
 
-## 🌿 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunidhi7602&show_icons=true&bg_color=1E2B1E&border_color=5C7A47&title_color=A8BC8A&icon_color=D4A96A&text_color=D4C9A8&hide_border=false&rank_icon=github"/>
-
-&nbsp;
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi7602&layout=compact&bg_color=1E2B1E&border_color=5C7A47&title_color=A8BC8A&text_color=D4C9A8&hide_border=false"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi7602&background=1E2B1E&border=5C7A47&ring=8AAF6B&fire=C47B4A&currStreakLabel=A8BC8A&sideLabels=A3B899&dates=9DAA8F&currStreakNum=D4C9A8&sideNums=D4C9A8"/>
-
-</div>
-
----
-
 ## 🌿 Certifications & Research
 
 | Icon | Credential | Status |
 |:---:|---|---:|
-| 🛡️ | **ISC2 Certified in Cybersecurity (CC)** | ![in progress](https://img.shields.io/badge/in_progress-3B5430?style=flat-square) |
-| 📘 | **NPTEL — Cybersecurity and Privacy** | ![completed](https://img.shields.io/badge/completed-2C3E2D?style=flat-square) |
-| 🔬 | **IEEE Research — Honeypot Intrusion Detection** | ![published](https://img.shields.io/badge/published-1E2B1E?style=flat-square) |
+| 🛡️ | **Python language certification)** |(https://img.shields.io/badge/in_progress-3B5430?style=flat-square) |
+| 🛡️ | **ISC2 Certified in Cybersecurity (CC)** |(https://img.shields.io/badge/in_progress-3B5430?style=flat-square) |
+| 🔬 | **IEEE Research — Honeypot Intrusion Detection** |(https://img.shields.io/badge/published-1E2B1E?style=flat-square) |
 
 ---
 
