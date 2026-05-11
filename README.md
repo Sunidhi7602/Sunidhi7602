@@ -168,7 +168,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-2C3E2D?style=flat-square&logo=mongodb&logoColor=8AAF6B)
 ![React](https://img.shields.io/badge/React-2C3E2D?style=flat-square&logo=react&logoColor=A8BC8A)
 
-[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](#)
+[![View Repo](https://img.shields.io/badge/🌿_view_repo-3B5430?style=flat-square&logo=github&logoColor=D4C9A8)](https://github.com/Sunidhi7602/Agentic_AI_OWASP_scanner)
 
 
 </td>
